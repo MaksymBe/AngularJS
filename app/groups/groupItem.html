@@ -1,0 +1,12 @@
+<div class="list-group-item d-flex justify-content-between" id="g{{$ctrl.group.id}}">
+    <a href="#!/groupsDetails.html?id=${item.id}" class="link-on-list">
+        {{$ctrl.group.name}}</a>
+    <div class="d-flex">
+        <input type="button" class="btn btn-primary add-btn" value="Update"
+        <!--ng-click='location.href="./groupsEdit.html?id={{$ctrl.group.id}}"-->'>
+
+        <input type="button" class="btn btn-danger" value="Delete"
+        <!--ng-click='deleteGroup("{{$ctrl.group.id}}")-->'>
+    </div>
+</div>
+
