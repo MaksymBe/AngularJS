@@ -184,3 +184,724 @@
 [0mGET /groups [36m304 [0m0.368 ms - -[0m
 [0mGET /groups [36m304 [0m0.351 ms - -[0m
 [0mGET /groups [36m304 [0m0.369 ms - -[0m
+
+  \{^_^}/ hi!
+
+  Loading db.json
+  Done
+
+  Resources
+  http://localhost:3000/groups
+  http://localhost:3000/questions
+  http://localhost:3000/tasks
+  http://localhost:3000/tests
+  http://localhost:3000/interns
+  http://localhost:3000/weeks
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+[0mGET /groups [36m304 [0m6.520 ms - -[0m
+[0mGET /groups [36m304 [0m0.935 ms - -[0m
+[0mGET /groups/ [32m200 [0m0.503 ms - 232[0m
+[0mGET /groups/ [36m304 [0m0.495 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.505 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.730 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.346 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.354 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.505 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.342 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.344 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.380 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.366 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.031 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.376 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.382 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.357 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.362 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.368 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.490 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.383 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.387 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.355 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.357 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.373 ms - -[0m
+[0mDELETE /groups/4 [32m200 [0m7.984 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.351 ms - 122[0m
+[0mGET /groups/ [36m304 [0m0.365 ms - -[0m
+[0mDELETE /groups/3 [32m200 [0m1.217 ms - 2[0m
+[0mDELETE /groups/3 [33m404 [0m0.992 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.329 ms - 2[0m
+[0mGET /groups/ [36m304 [0m0.311 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.316 ms - -[0m
+[0mPOST /groups [32m201 [0m34.335 ms - 96[0m
+[0mGET /groups/ [32m200 [0m0.334 ms - 112[0m
+[0mPOST /groups [32m201 [0m1.306 ms - 96[0m
+[0mPOST /groups [32m201 [0m1.045 ms - 96[0m
+[0mPOST /groups [32m201 [0m1.004 ms - 96[0m
+[0mPOST /groups [32m201 [0m0.604 ms - 96[0m
+[0mPOST /groups [32m201 [0m1.018 ms - 96[0m
+[0mPOST /groups [32m201 [0m1.401 ms - 96[0m
+[0mPOST /groups [32m201 [0m0.623 ms - 96[0m
+[0mPOST /groups [32m201 [0m0.677 ms - 96[0m
+[0mPOST /groups [32m201 [0m0.622 ms - 97[0m
+[0mPOST /groups [32m201 [0m0.698 ms - 97[0m
+[0mGET /groups/ [32m200 [0m0.510 ms - -[0m
+[0mDELETE /groups/11 [32m200 [0m0.843 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.435 ms - -[0m
+[0mDELETE /groups/10 [32m200 [0m0.702 ms - 2[0m
+[0mDELETE /groups/10 [33m404 [0m0.790 ms - 2[0m
+[0mDELETE /groups/10 [33m404 [0m0.680 ms - 2[0m
+[0mDELETE /groups/10 [33m404 [0m0.803 ms - 2[0m
+[0mDELETE /groups/10 [33m404 [0m0.717 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.538 ms - 992[0m
+[0mDELETE /groups/9 [32m200 [0m0.654 ms - 2[0m
+[0mDELETE /groups/9 [33m404 [0m0.895 ms - 2[0m
+[0mDELETE /groups/9 [33m404 [0m0.647 ms - 2[0m
+[0mDELETE /groups/9 [33m404 [0m0.602 ms - 2[0m
+[0mDELETE /groups/9 [33m404 [0m0.744 ms - 2[0m
+[0mDELETE /groups/9 [33m404 [0m0.812 ms - 2[0m
+[0mDELETE /groups/9 [33m404 [0m0.732 ms - 2[0m
+[0mDELETE /groups/9 [33m404 [0m1.836 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.455 ms - 882[0m
+[0mDELETE /groups/8 [32m200 [0m0.775 ms - 2[0m
+[0mDELETE /groups/8 [33m404 [0m0.711 ms - 2[0m
+[0mDELETE /groups/8 [33m404 [0m0.785 ms - 2[0m
+[0mDELETE /groups/8 [33m404 [0m0.789 ms - 2[0m
+[0mDELETE /groups/8 [33m404 [0m0.686 ms - 2[0m
+[0mDELETE /groups/7 [32m200 [0m0.775 ms - 2[0m
+[0mDELETE /groups/8 [33m404 [0m0.765 ms - 2[0m
+[0mDELETE /groups/7 [33m404 [0m0.731 ms - 2[0m
+[0mDELETE /groups/7 [33m404 [0m0.750 ms - 2[0m
+[0mDELETE /groups/8 [33m404 [0m1.664 ms - 2[0m
+[0mDELETE /groups/7 [33m404 [0m0.631 ms - 2[0m
+[0mDELETE /groups/8 [33m404 [0m0.752 ms - 2[0m
+[0mDELETE /groups/7 [33m404 [0m0.718 ms - 2[0m
+[0mDELETE /groups/8 [33m404 [0m0.639 ms - 2[0m
+[0mDELETE /groups/7 [33m404 [0m0.762 ms - 2[0m
+[0mDELETE /groups/6 [32m200 [0m0.724 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.386 ms - 552[0m
+[0mGET /groups/ [36m304 [0m0.412 ms - -[0m
+[0mDELETE /groups/5 [32m200 [0m0.710 ms - 2[0m
+[0mDELETE /groups/4 [32m200 [0m0.762 ms - 2[0m
+[0mDELETE /groups/3 [32m200 [0m0.642 ms - 2[0m
+[0mDELETE /groups/2 [32m200 [0m0.664 ms - 2[0m
+[0mPOST /groups [32m201 [0m0.613 ms - 96[0m
+[0mPOST /groups [32m201 [0m0.658 ms - 96[0m
+[0mPOST /groups [32m201 [0m0.583 ms - 96[0m
+[0mPOST /groups [32m201 [0m1.007 ms - 96[0m
+[0mPOST /groups [32m201 [0m0.820 ms - 96[0m
+[0mPOST /groups [32m201 [0m0.602 ms - 96[0m
+[0mPOST /groups [32m201 [0m0.726 ms - 96[0m
+[0mPOST /groups [32m201 [0m0.587 ms - 96[0m
+[0mGET /groups/ [32m200 [0m0.400 ms - 992[0m
+[0mDELETE /groups/9 [32m200 [0m0.759 ms - 2[0m
+[0mDELETE /groups/8 [32m200 [0m1.786 ms - 2[0m
+[0mDELETE /groups/7 [32m200 [0m0.679 ms - 2[0m
+[0mDELETE /groups/6 [32m200 [0m0.607 ms - 2[0m
+[0mDELETE /groups/5 [32m200 [0m0.636 ms - 2[0m
+[0mDELETE /groups/4 [32m200 [0m0.590 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.335 ms - 332[0m
+[0mGET /groups/ [36m304 [0m0.318 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.369 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.348 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.678 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.459 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.407 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.165 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.350 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.333 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.380 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.339 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.813 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.392 ms - -[0m
+[0mDELETE /groups/3 [32m200 [0m0.588 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.331 ms - 222[0m
+[0mGET /groups/ [36m304 [0m0.346 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.372 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.367 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.533 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.520 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.530 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.564 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.339 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.334 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.400 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.337 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.507 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.471 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.582 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.529 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.334 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.332 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.327 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.315 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.417 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.358 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.510 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.526 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.509 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.568 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.343 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.352 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.003 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.353 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.351 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.315 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.341 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.574 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.356 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.305 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.428 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.324 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.371 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.495 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.503 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.602 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.357 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.363 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.337 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.336 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.324 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.286 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.370 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.290 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.913 ms - -[0m
+[0mGET /groups/ [36m304 [0m2.180 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.440 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.397 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.518 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.431 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.420 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.346 ms - -[0m
+[0mGET /groups/ [32m200 [0m0.425 ms - 222[0m
+[0mGET /groups/ [32m200 [0m0.463 ms - 222[0m
+[0mGET /groups/ [36m304 [0m0.477 ms - -[0m
+[0mGET /groups/ [32m200 [0m0.358 ms - 222[0m
+[0mGET /groups/ [36m304 [0m0.389 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.327 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.342 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.358 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.301 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.349 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.352 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.346 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.378 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.597 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.541 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.472 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.458 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.486 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.469 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.477 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.472 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.346 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.316 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.333 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.328 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.426 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.441 ms - -[0m
+[0mPOST /groups/ [32m201 [0m0.865 ms - 91[0m
+[0mGET /groups/ [32m200 [0m0.595 ms - 329[0m
+[0mGET /groups/ [36m304 [0m0.530 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.531 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.521 ms - -[0m
+[0mDELETE /groups/3 [32m200 [0m0.626 ms - 2[0m
+[0mPOST /groups/ [32m201 [0m0.675 ms - 111[0m
+[0mGET /groups/ [32m200 [0m0.491 ms - 349[0m
+[0mGET /groups/ [36m304 [0m0.532 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.633 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.593 ms - -[0m
+[0mPOST /groups/ [32m201 [0m0.714 ms - 111[0m
+[0mGET /groups/ [32m200 [0m0.549 ms - 476[0m
+[0mGET /groups/ [36m304 [0m0.542 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.789 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.599 ms - -[0m
+[0mPOST /groups/ [32m201 [0m1.447 ms - 111[0m
+[0mGET /groups/ [32m200 [0m0.545 ms - 603[0m
+[0mGET /groups/ [36m304 [0m0.391 ms - -[0m
+[0mDELETE /groups/5 [32m200 [0m0.659 ms - 2[0m
+[0mDELETE /groups/4 [32m200 [0m0.646 ms - 2[0m
+[0mDELETE /groups/3 [32m200 [0m0.610 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.328 ms - 222[0m
+[0mGET /groups/ [36m304 [0m0.365 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.359 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.363 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.345 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.339 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.320 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.357 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.366 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.471 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.346 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.383 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.378 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.289 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.601 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.564 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.343 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.352 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.335 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.341 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.045 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.295 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.333 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.349 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.342 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.327 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.339 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.357 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.346 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.306 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.348 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.321 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.335 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.325 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.098 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.398 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.340 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.507 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.340 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.327 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.357 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.357 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.333 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.305 ms - -[0m
+[0mPOST /groups/ [32m201 [0m0.729 ms - 111[0m
+[0mGET /groups/ [32m200 [0m0.408 ms - 349[0m
+[0mGET /groups/ [36m304 [0m0.391 ms - -[0m
+[0mDELETE /groups/2 [32m200 [0m0.567 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.614 ms - 239[0m
+[0mGET /groups/ [36m304 [0m0.365 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.336 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.291 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.343 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.347 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.373 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.320 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.342 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.329 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.347 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.353 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.347 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.344 ms - -[0m
+[0mPOST /groups/ [32m201 [0m0.727 ms - 111[0m
+[0mGET /groups/ [32m200 [0m0.379 ms - 366[0m
+[0mGET /groups/ [36m304 [0m2.346 ms - -[0m
+[0mDELETE /groups/4 [32m200 [0m0.613 ms - 2[0m
+[0mDELETE /groups/3 [32m200 [0m0.580 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.316 ms - 112[0m
+[0mGET /groups/ [36m304 [0m0.365 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.361 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.284 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.302 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.277 ms - -[0m
+[0mPOST /groups/ [32m201 [0m0.777 ms - 84[0m
+[0mGET /groups/ [32m200 [0m1.368 ms - 212[0m
+[0mGET /groups/ [36m304 [0m0.372 ms - -[0m
+[0mDELETE /groups/2 [32m200 [0m0.650 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.379 ms - 112[0m
+[0mGET /groups/ [36m304 [0m0.367 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.429 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.419 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.397 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.388 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.301 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.286 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.664 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.299 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.309 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.240 ms - -[0m
+[0mDELETE /groups/1 [32m200 [0m0.637 ms - 2[0m
+[0mPOST /groups/ [32m201 [0m0.560 ms - 111[0m
+[0mGET /groups/ [32m200 [0m0.284 ms - 129[0m
+[0mGET /groups/ [36m304 [0m0.293 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.483 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.497 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.535 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.466 ms - -[0m
+[0mPOST /groups/ [32m201 [0m0.735 ms - 111[0m
+[0mGET /groups/ [32m200 [0m0.389 ms - 256[0m
+[0mGET /groups/ [36m304 [0m0.372 ms - -[0m
+[0mDELETE /groups/2 [32m200 [0m0.771 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.283 ms - 129[0m
+[0mGET /groups/ [36m304 [0m0.314 ms - -[0m
+[0mGET /tasks [32m200 [0m0.743 ms - 362[0m
+[0mGET /groups/ [36m304 [0m0.478 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.310 ms - -[0m
+[0mPOST /groups/ [32m201 [0m0.952 ms - 13[0m
+[0mGET /groups/ [32m200 [0m0.441 ms - 150[0m
+[0mGET /groups/ [36m304 [0m0.402 ms - -[0m
+[0mDELETE /groups/2 [32m200 [0m0.615 ms - 2[0m
+[0mPOST /groups/ [32m201 [0m0.677 ms - 13[0m
+[0mGET /groups/ [32m200 [0m0.587 ms - 150[0m
+[0mGET /groups/ [32m200 [0m0.466 ms - 150[0m
+[0mGET /groups/ [36m304 [0m0.416 ms - -[0m
+[0mDELETE /groups/2 [32m200 [0m0.629 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.338 ms - 129[0m
+[0mGET /groups/ [36m304 [0m0.374 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.635 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.449 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.659 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.617 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.538 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.328 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.553 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.572 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.567 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.500 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.597 ms - -[0m
+[0mGET /groups/ [36m304 [0m2.660 ms - -[0m
+
+  \{^_^}/ hi!
+
+  Loading db.json
+  Done
+
+  Resources
+  http://localhost:3000/groups
+  http://localhost:3000/questions
+  http://localhost:3000/tasks
+  http://localhost:3000/tests
+  http://localhost:3000/interns
+  http://localhost:3000/weeks
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+[0mGET /groups/ [36m304 [0m6.427 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.744 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.677 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.632 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.693 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.610 ms - -[0m
+
+  \{^_^}/ hi!
+
+  Loading db.json
+  Done
+
+  Resources
+  http://localhost:3000/groups
+  http://localhost:3000/questions
+  http://localhost:3000/tasks
+  http://localhost:3000/tests
+  http://localhost:3000/interns
+  http://localhost:3000/weeks
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+[0mGET /groups/ [36m304 [0m5.575 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.715 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.472 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.462 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.860 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.805 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.463 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.444 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.554 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.467 ms - -[0m
+[0mPOST /groups/ [32m201 [0m19.971 ms - 96[0m
+[0mGET /groups/ [32m200 [0m0.407 ms - 239[0m
+[0mGET /groups/ [36m304 [0m0.440 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.656 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.646 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.402 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.351 ms - -[0m
+[0mPOST /groups/ [32m201 [0m1.260 ms - 98[0m
+[0mGET /groups/ [32m200 [0m0.410 ms - 351[0m
+[0mGET /groups/ [36m304 [0m1.559 ms - -[0m
+
+  \{^_^}/ hi!
+
+  Loading db.json
+  Done
+
+  Resources
+  http://localhost:3000/groups
+  http://localhost:3000/questions
+  http://localhost:3000/tasks
+  http://localhost:3000/tests
+  http://localhost:3000/interns
+  http://localhost:3000/weeks
+
+  Home
+  http://localhost:3000
+
+  Type s + enter at any time to create a snapshot of the database
+[0mGET /groups/ [32m200 [0m7.524 ms - 335[0m
+[0mGET /groups/ [36m304 [0m1.157 ms - -[0m
+[0mDELETE /groups/3 [32m200 [0m4.089 ms - 2[0m
+[0mDELETE /groups/2 [32m200 [0m0.980 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.676 ms - 113[0m
+[0mGET /groups/ [36m304 [0m0.568 ms - -[0m
+[0mPOST /groups/ [32m201 [0m17.942 ms - 97[0m
+[0mGET /groups/ [32m200 [0m0.629 ms - 224[0m
+[0mGET /groups/ [36m304 [0m0.523 ms - -[0m
+[0mDELETE /groups/2 [32m200 [0m1.026 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.455 ms - 113[0m
+[0mGET /groups/ [36m304 [0m0.397 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.382 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.447 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.354 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.360 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.351 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.325 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.358 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.339 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.140 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.344 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.391 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.436 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.354 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.337 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.360 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.286 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.347 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.330 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.341 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.331 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.335 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.310 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.980 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.326 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.348 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.347 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.354 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.339 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.517 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.434 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.404 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.353 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.382 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.387 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.470 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.449 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.639 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.512 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.360 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.343 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.352 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.359 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.345 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.332 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.347 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.331 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.361 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.359 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.354 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.008 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.340 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.331 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.345 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.356 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.346 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.367 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.328 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.321 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.418 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.400 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.309 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.304 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.339 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.917 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.595 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.553 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.336 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.321 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.444 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.431 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.331 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.317 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.347 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.325 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.406 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.333 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.453 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.491 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.336 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.320 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.326 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.370 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.329 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.345 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.322 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.303 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.321 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.315 ms - -[0m
+[0mPATCH /groups/undefined [33m404 [0m1.168 ms - 2[0m
+[0mPATCH /groups/undefined [33m404 [0m1.665 ms - 2[0m
+[0mGET /groups/ [36m304 [0m0.624 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.458 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.405 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.472 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.349 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.365 ms - -[0m
+[0mPATCH /groups/undefined [33m404 [0m0.791 ms - 2[0m
+[0mGET /groups/ [36m304 [0m0.401 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.393 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.511 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.422 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.528 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.432 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.375 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.383 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.346 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.355 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.358 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.365 ms - -[0m
+[0mGET /groups/1 [32m200 [0m0.528 ms - 97[0m
+[0mGET /groups/1 [36m304 [0m0.361 ms - -[0m
+[0mGET /groups/1 [36m304 [0m0.413 ms - -[0m
+[0mGET /groups/1 [36m304 [0m0.381 ms - -[0m
+[0mPATCH /groups/undefined [33m404 [0m0.584 ms - 2[0m
+[0mGET /groups/1 [36m304 [0m0.381 ms - -[0m
+[0mGET /groups/1 [36m304 [0m0.399 ms - -[0m
+[0mPATCH /groups/1 [32m200 [0m0.818 ms - 99[0m
+[0mGET /groups/ [32m200 [0m0.345 ms - 115[0m
+[0mGET /groups/ [36m304 [0m0.329 ms - -[0m
+[0mGET /groups/1 [32m200 [0m0.519 ms - 99[0m
+[0mGET /groups/1 [36m304 [0m0.523 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.486 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.433 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.380 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.352 ms - -[0m
+[0mGET /groups/1 [36m304 [0m0.495 ms - -[0m
+[0mGET /groups/1 [36m304 [0m0.441 ms - -[0m
+[0mGET /groups/1 [36m304 [0m0.361 ms - -[0m
+[0mGET /groups/1 [36m304 [0m0.354 ms - -[0m
+[0mPATCH /groups/1 [32m200 [0m1.201 ms - 99[0m
+[0mGET /groups/ [32m200 [0m0.405 ms - 115[0m
+[0mGET /groups/ [36m304 [0m0.405 ms - -[0m
+[0mGET /groups/1 [32m200 [0m0.441 ms - 99[0m
+[0mGET /groups/1 [36m304 [0m0.411 ms - -[0m
+[0mPATCH /groups/1 [32m200 [0m0.667 ms - 100[0m
+[0mGET /groups/ [32m200 [0m0.381 ms - 116[0m
+[0mGET /groups/ [36m304 [0m0.385 ms - -[0m
+[0mPOST /groups/ [32m201 [0m0.966 ms - 99[0m
+[0mGET /groups/ [32m200 [0m0.471 ms - 229[0m
+[0mGET /groups/ [36m304 [0m0.459 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.504 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.477 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.504 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.822 ms - -[0m
+[0mPOST /groups/ [32m201 [0m0.901 ms - 97[0m
+[0mGET /groups/ [32m200 [0m0.526 ms - 340[0m
+[0mGET /groups/ [36m304 [0m0.515 ms - -[0m
+[0mDELETE /groups/3 [32m200 [0m0.730 ms - 2[0m
+[0mGET /groups/ [32m200 [0m0.356 ms - 229[0m
+[0mGET /groups/ [36m304 [0m0.366 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.376 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.362 ms - -[0m
+[0mGET /groups/1 [32m200 [0m0.556 ms - 100[0m
+[0mGET /groups/1 [36m304 [0m1.550 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.532 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.505 ms - -[0m
+[0mGET /groups/2 [32m200 [0m0.500 ms - 99[0m
+[0mGET /groups/2 [36m304 [0m0.554 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.519 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.476 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.408 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.533 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.484 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.462 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.430 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.414 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.378 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.369 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.531 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.545 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.528 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.553 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.407 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.348 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.387 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.371 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.367 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.358 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.544 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.487 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.395 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.536 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.373 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.369 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.381 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.361 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.383 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.371 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.376 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.368 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.509 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.518 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.391 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.381 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.382 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.359 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.464 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.471 ms - -[0m
+[0mGET /groups/2 [36m304 [0m7.155 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.637 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.494 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.559 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.353 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.355 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.364 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.400 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.522 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.486 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.478 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.471 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.468 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.431 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.369 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.354 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.400 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.545 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.395 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.374 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.500 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.479 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.495 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.495 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.535 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.532 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.503 ms - -[0m
+[0mGET /groups/ [36m304 [0m1.070 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.890 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.444 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.460 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.419 ms - -[0m
+[0mPATCH /groups/2 [32m200 [0m0.944 ms - 100[0m
+[0mGET /groups/ [32m200 [0m0.349 ms - 230[0m
+[0mGET /groups/ [36m304 [0m0.357 ms - -[0m
+[0mGET /groups/2 [32m200 [0m0.440 ms - 100[0m
+[0mGET /groups/2 [36m304 [0m0.454 ms - -[0m
+[0mPATCH /groups/2 [32m200 [0m2.048 ms - 99[0m
+[0mGET /groups/ [32m200 [0m0.449 ms - 229[0m
+[0mGET /groups/ [36m304 [0m0.447 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.495 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.497 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.356 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.312 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.539 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.505 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.492 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.512 ms - -[0m
+[0mPOST /groups/ [32m201 [0m0.784 ms - 99[0m
+[0mGET /groups/ [32m200 [0m0.400 ms - 342[0m
+[0mGET /groups/ [36m304 [0m0.510 ms - -[0m
+[0mDELETE /groups/3 [32m200 [0m0.739 ms - 2[0m
+[0mGET /groups/1 [36m304 [0m0.510 ms - -[0m
+[0mGET /groups/1 [36m304 [0m0.459 ms - -[0m
+[0mGET /groups/ [32m200 [0m0.462 ms - 229[0m
+[0mGET /groups/ [36m304 [0m0.450 ms - -[0m
+[0mGET /groups/2 [32m200 [0m0.439 ms - 99[0m
+[0mGET /groups/2 [36m304 [0m0.445 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.999 ms - -[0m
+[0mGET /groups/2 [36m304 [0m0.342 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.412 ms - -[0m
+[0mGET /groups/ [36m304 [0m0.397 ms - -[0m

@@ -1,16 +1,16 @@
 {
   "groups": [
     {
-      "name": "inCamp Winter S8",
-      "periodStart": "2018-03-15",
-      "periodFinish": "2018-05-28",
-      "id": 3
+      "name": "inCamp XL ",
+      "periodStart": "2018-04-02",
+      "periodFinish": "2018-04-27",
+      "id": 1
     },
     {
-      "name": "Team A",
-      "periodStart": "2018-03-15",
-      "periodFinish": "2018-03-17",
-      "id": 4
+      "name": "inCamp S8",
+      "periodStart": "2018-04-03",
+      "periodFinish": "2018-04-30",
+      "id": 2
     }
   ],
   "questions": [
@@ -102,22 +102,7 @@
       "id": 2
     }
   ],
-  "interns": [
-    {
-      "id": 1,
-      "firstName": "Vadym",
-      "lastName": "Kukurika",
-      "email": "vadymku@interlunk-ua.com",
-      "groupId": 3
-    },
-    {
-      "firstName": "21",
-      "lastName": "21",
-      "email": "12",
-      "groupId": "3",
-      "id": 2
-    }
-  ],
+  "interns": [],
   "weeks": [
     {
       "weekNumber": "21321",

@@ -1,0 +1,44 @@
+<div ng-controller="detailsGroupController as ctrl">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="card">
+                <div class="card-header">
+                    Group name:
+                </div>
+                <div class="card-body">
+                    <p id="group-name" class="card-text">{{ctrl.group.name}}</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <div class="card">
+                <div class="card-header">
+                    Period:
+                </div>
+                <div class="card-body">
+                    <p id="group-period" class="card-text">{{ctrl.group.periodStart}} : {{ctrl.group.periodFinish}}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="">
+        <div class="card margin-top">
+            <div class="card-header"><a href="../Interns/list.html">
+                Interns</a>
+            </div>
+            <div class="card-body">
+                <ul class="list-group">
+                    <li class="list-group-item">Maksym Berezovsky</li>
+                    <li class="list-group-item">Dmytro Zahərchenko</li>
+                    <li class="list-group-item">Maksym Tokar</li>
+                    <li class="list-group-item">Vadym Kukurika</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="margin-top">
+        <input type="button" class="btn btn-secondary" style="width: 100%" value="Back"
+               onClick='location.href="#!/groups"'>
+    </div>
+</div>

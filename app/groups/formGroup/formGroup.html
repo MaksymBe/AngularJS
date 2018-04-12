@@ -1,0 +1,16 @@
+<form name="groupForm">
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text">Group name</span>
+        </div>
+        <input type="text" class="form-control" id="nameInput" name="name" placeholder="inCamp S*" value="{{$ctrl.group.name?$ctrl.group.name:''}}">
+    </div>
+
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text">Period</span>
+        </div>
+        <input type="date" name="periodStart" id="periodInputS" class="form-control" value="{{$ctrl.group.periodStart?$ctrl.group.periodStart:''}}">
+        <input type="date" name="periodFinish" id="periodInputF" class="form-control" value="{{$ctrl.group.periodFinish?$ctrl.group.periodFinish:''}}">
+    </div>
+</form>
