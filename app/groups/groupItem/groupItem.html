@@ -1,11 +1,10 @@
-<div class="list-group-item d-flex justify-content-between" id="g{{$ctrl.group.id}}">
+<div class="list-group-item d-flex justify-content-between align-items-center list-group-item-action" style="padding: 0 1em; margin: 0.2em auto" id="g{{$ctrl.group.id}}">
     <a href="#!/groups/{{$ctrl.group.id}}" class="link-on-list">
-        {{$ctrl.group.name}}</a>
-    <div class="d-flex">
-        <input type="button" class="btn btn-primary add-btn" value="Update"
-               ng-click="$ctrl.redirectTo()">
+        <b>{{$ctrl.group.name}}</b></a>
+    <div>
+        <a class="btn btn-outline-primary add-btn"  ng-href="#!/groups/{{$ctrl.group.id}}/edit">Update</a>
 
-        <input type="button" class="btn btn-danger" value="Delete"
+        <input type="button" class="btn btn-outline-danger" value="Delete"
                ng-click="$ctrl.deleteGroup()">
     </div>
 </div>

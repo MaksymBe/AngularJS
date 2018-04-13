@@ -4,10 +4,10 @@
         <div class="card-body">
             <div id="groupsList" class="list-group">
                 <div ng-repeat="group in ctrl.groups">
-                    <group-item group="group" delete-group="ctrl.deleteGroup(group)" redirect-to="ctrl.redirectTo('groupUpdate/' + group.id)"></group-item>
+                    <group-item group="group" delete-group="ctrl.deleteGroup(group)" ></group-item>
                 </div>
             </div>
         </div>
     </div>
-    <input type="button" style="width: 100%" class="btn btn-success margin-top" value="Add" ng-click="ctrl.redirectTo('createGroup')">
+    <a style="width: 100%" class="btn btn-outline-success mt-2"  ng-href="#!/groups/new" >Add</a>
 </div>

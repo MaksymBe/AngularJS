@@ -1,13 +1,8 @@
 'use strict';
 
-let formToJSON = elements => [].reduce.call(elements, (data, element) => {
-  data[element.name] = element.value;
-  return data;
-}, {});
-
 angular.module('createGroup', ['ngRoute', 'myApp']).config([
   '$routeProvider', function($routeProvider) {
-    $routeProvider.when('/createGroup', {
+    $routeProvider.when('/groups/new', {
       templateUrl: './groups/createGroup/createGroup.html',
       controller: 'createGroupController',
     });
@@ -15,7 +10,6 @@ angular.module('createGroup', ['ngRoute', 'myApp']).config([
   'groupsService', '$location', function(groupsService, $location) {
     this.group = {};
     this.createGroup = () => {
-      //let group = formToJSON(document.getElementsByName('groupForm')[0].elements);
       let group = this.group;
       group.periodStart = dateConverter(group.periodStart);
       group.periodFinish = dateConverter(group.periodFinish);

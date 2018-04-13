@@ -2,7 +2,7 @@
 
 angular.module('groupUpdate', ['ngRoute', 'myApp']).config([
   '$routeProvider', function($routeProvider) {
-    $routeProvider.when('/groupUpdate/:id', {
+    $routeProvider.when('/groups/:id/edit', {
       templateUrl: './groups/groupUpdate/groupUpdate.html',
       controller: 'updateGroupController',
     });
