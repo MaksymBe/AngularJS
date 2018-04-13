@@ -13,9 +13,14 @@ angular.module('createGroup', ['ngRoute', 'myApp']).config([
     });
   }]).controller('createGroupController', [
   'groupsService', '$location', function(groupsService, $location) {
+    this.group = {};
     this.createGroup = () => {
-      let group = formToJSON(document.getElementsByName('groupForm')[0].elements);
-      groupsService.createGroup(group).success(() => $location.path('groups'));
+      //let group = formToJSON(document.getElementsByName('groupForm')[0].elements);
+      let group = this.group;
+      group.periodStart = dateConverter(group.periodStart);
+      group.periodFinish = dateConverter(group.periodFinish);
+      groupsService.createGroup(this.group).
+          success(() => $location.path('groups'));
     };
 
   }]);
